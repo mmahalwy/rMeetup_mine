@@ -2,7 +2,7 @@ require 'rubygems'
 require 'rake'
 require 'echoe'
 
-Echoe.new('rMeetup','1.0') do |p|
+Echoe.new('rMeetup','1.0.1') do |p|
   p.description = "A simple Ruby gem, providing access to the Meetup API"
   p.url         = "https://github.com/Jberlinsky/rmeetup"
   p.author      = "Jason Berlinsky"
